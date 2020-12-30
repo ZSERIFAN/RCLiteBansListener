@@ -1,0 +1,12 @@
+# Configuration file for Random Craft's LiteBans listener.
+# Coded with <3 by thmihnea
+
+gui:
+  title: "&9Random Craft"
+  book-name: "&9You are currently banned, thus not able to play normal gamemodes."
+  book-lore:
+    - "&eYou will have to play in the Gulag server."
+    - "&eReason: &c%reason%"
+bungee:
+  server-name: "Gulag"
+

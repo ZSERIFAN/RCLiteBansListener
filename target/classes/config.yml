@@ -1,12 +1,8 @@
-# Configuration file for Random Craft's LiteBans listener.
-# Coded with <3 by thmihnea
+# RCBansListener config, coded with <3 by thmihnea.
 
-gui:
-  title: "&9Random Craft"
-  book-name: "&9You are currently banned, thus not able to play normal gamemodes."
-  book-lore:
-    - "&eYou will have to play in the Gulag server."
-    - "&eReason: &c%reason%"
-bungee:
-  server-name: "Gulag"
-
+# Set the server where all players should be sent if they are banned.
+# Type in the server name as it is in the BungeeCord global list.
+gulag-server: "mini-1"
+# Message that should be sent to all players who are banned right before
+# they are sent to the Gulag.
+message: "&cYou are currently banned, therefore you will be sent to the Gulag. (Reason: %reason%&c)"

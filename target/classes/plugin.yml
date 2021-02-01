@@ -1,9 +1,7 @@
-name: RCLiteBansListener
-version: 1.0
+name: RCBL
 author: thmihnea
-main: ro.thmdev.RCLBListener
-description: Listens for bans
+description: Listens for Litebans.
+version: 1.0
+main: by.thmihnea.RCBL
 
 api-version: 1.13
-softdepend:
-  - LiteBans

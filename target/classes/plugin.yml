@@ -1,7 +1,0 @@
-name: RCBL
-author: thmihnea
-description: Listens for Litebans.
-version: 1.0
-main: by.thmihnea.RCBL
-
-api-version: 1.13

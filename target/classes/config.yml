@@ -1,8 +1,0 @@
-# RCBansListener config, coded with <3 by thmihnea.
-
-# Set the server where all players should be sent if they are banned.
-# Type in the server name as it is in the BungeeCord global list.
-gulag-server: "mini-1"
-# Message that should be sent to all players who are banned right before
-# they are sent to the Gulag.
-message: "&cYou are currently banned, therefore you will be sent to the Gulag. (Reason: %reason%&c)"
